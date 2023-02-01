@@ -16,5 +16,3 @@ My final product can be found and viewed by opening the Dragon_Fightin.html in a
 Feel free to contact me with any questions!
 
 Mat Longinow
-
-mat.longinow@gmail.com
